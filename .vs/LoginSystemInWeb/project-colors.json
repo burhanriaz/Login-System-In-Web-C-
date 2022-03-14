@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "121b92d7-5d1a-42b8-af6a-684e25e69f54": {
+      "ProjectGuid": "121b92d7-5d1a-42b8-af6a-684e25e69f54",
+      "DisplayName": "LoginSystemInWeb",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

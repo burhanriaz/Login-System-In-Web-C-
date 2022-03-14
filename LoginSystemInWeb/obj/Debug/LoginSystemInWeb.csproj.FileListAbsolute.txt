@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\LoginSystemInWeb\LoginSystemInWeb\bin\Burhan.dll.config
+C:\Users\pc\Desktop\LoginSystemInWeb\LoginSystemInWeb\bin\Burhan.dll
+C:\Users\pc\Desktop\LoginSystemInWeb\LoginSystemInWeb\obj\Debug\LoginSystemInWeb.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\LoginSystemInWeb\LoginSystemInWeb\obj\Debug\LoginSystemInWeb.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\LoginSystemInWeb\LoginSystemInWeb\obj\Debug\Burhan.dll
+C:\Users\pc\Desktop\LoginSystemInWeb\LoginSystemInWeb\obj\Debug\Burhan.pdb
+C:\Users\pc\Desktop\LoginSystemInWeb\LoginSystemInWeb\bin\Burhan.pdb

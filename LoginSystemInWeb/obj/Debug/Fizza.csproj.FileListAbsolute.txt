@@ -1,0 +1,5 @@
+C:\Users\Mr Burhan\Documents\Visual Studio 2012\Projects\Fizza\Fizza\bin\Fizza.dll
+C:\Users\Mr Burhan\Documents\Visual Studio 2012\Projects\Fizza\Fizza\bin\Fizza.pdb
+C:\Users\Mr Burhan\Documents\Visual Studio 2012\Projects\Fizza\Fizza\obj\Debug\Fizza.csprojResolveAssemblyReference.cache
+C:\Users\Mr Burhan\Documents\Visual Studio 2012\Projects\Fizza\Fizza\obj\Debug\Fizza.dll
+C:\Users\Mr Burhan\Documents\Visual Studio 2012\Projects\Fizza\Fizza\obj\Debug\Fizza.pdb

@@ -1,0 +1,17 @@
+D:\Fizza\Fizza\obj\Debug\Burhan.csprojResolveAssemblyReference.cache
+D:\Fizza\Fizza\bin\Burhan.dll
+D:\Fizza\Fizza\bin\Burhan.pdb
+D:\Fizza\Fizza\obj\Debug\Burhan.dll
+D:\Fizza\Fizza\obj\Debug\Burhan.pdb
+D:\Burhan\Burhan\bin\Burhan.dll
+D:\Burhan\Burhan\bin\Burhan.pdb
+D:\Burhan\Burhan\obj\Debug\Burhan.csprojResolveAssemblyReference.cache
+D:\Burhan\Burhan\obj\Debug\Burhan.dll
+D:\Burhan\Burhan\obj\Debug\Burhan.pdb
+C:\Users\pc\Desktop\Burhan\Burhan\bin\Burhan.dll.config
+C:\Users\pc\Desktop\Burhan\Burhan\bin\Burhan.dll
+C:\Users\pc\Desktop\Burhan\Burhan\bin\Burhan.pdb
+C:\Users\pc\Desktop\Burhan\Burhan\obj\Debug\Burhan.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Burhan\Burhan\obj\Debug\Burhan.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Burhan\Burhan\obj\Debug\Burhan.dll
+C:\Users\pc\Desktop\Burhan\Burhan\obj\Debug\Burhan.pdb
